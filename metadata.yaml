@@ -1,0 +1,37 @@
+_repo: On-the-Art-of-WritingLectures-delivered-in-the-University-of-Cambridge-1913-1914_17470
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    - Quiller-Couch, Arthur Thomas
+    - Q
+    - Quiller-Couch, Sir Arthur Thomas
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+description: ''
+gutenberg_issued: '2006-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Rhetoric'
+- !lcsh 'English language -- Rhetoric -- Study and teaching -- England -- Cambridge'
+- !lcsh 'English language -- Style'
+- !lcsh 'Creative writing (Higher education) -- England'
+- !lcc 'PE'
+title: 'On the Art of Writing
+
+  Lectures delivered in the University of Cambridge 1913-1914'
+url: http://www.gutenberg.org/ebooks/17470
